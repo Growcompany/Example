@@ -1,2 +1,1 @@
-# Example
-example
+Gildong Hong
